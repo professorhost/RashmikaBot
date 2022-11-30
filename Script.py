@@ -10,8 +10,7 @@ class script(object):
 <b>➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚  :  𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</b>
 <b>➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆  :  𝑷𝒚𝒕𝒉𝒐𝒏 3</b>
 <b>➪ 𝑫𝒂𝒕𝒂 𝑩𝒂𝒔𝒆  :  𝑴𝒐𝒏𝒈𝒐𝑫𝑩</b>
-<b>➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href="https://t.me/Nokkiirunnoippolkittum">
-𝑭𝒓𝒆𝒆 𝑽𝑷𝑺</a>
+<b>➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href="https://t.me/Nokkiirunnoippolkittum">𝑭𝒓𝒆𝒆 𝑽𝑷𝑺</a>
 <b>➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : v2.0.3 [ 𝑺𝒕𝒂𝒃𝒍𝒆 ]</b>""" 
 
     SOURCE_TXT = """<b>𝙽𝙾𝚃𝙴:
