@@ -447,7 +447,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                               [
                            [
                             InlineKeyboardButton('Dᴇʟᴇᴛᴇ', callback_data='close_data'),
-                            InlineKeyboardButton('𝙶𝚁𝙾𝚄𝙿', url=f"https://t.me/MSMadminBot")
+                            InlineKeyboardButton('𝙶𝚁𝙾𝚄𝙿', url=f"https://t.me/MSMchat")
                           ]
                         ]
                     )
