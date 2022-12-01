@@ -21,10 +21,10 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/dafb93083149fef121b71.jpg https://telegra.ph/file/2e62dfb08da980691646e.jpg https://telegra.ph/file/bad7e19cba08410179d2e.jpg https://telegra.ph/file/3f02e076a2aa320c12eb2.jpg https://telegra.ph/file/54f2d41086451e46c4496.jpg https://telegra.ph/file/c6391769de77e51501b55.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/0e90c3010d11757e79794.jpg https://telegra.ph/file/12a4b2aa3d61bfcda78dc.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/f2ac735598931279c9fdc.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/4d060a7d48b1fc60579b4.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/8ea7d3d16ef436935d70e.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/0e90c3010d11757e79794.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/0e90c3010d11757e79794.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -46,11 +46,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_supported')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+ip38nA3Tm0A3MGRl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MSMchat')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MSM_Updates')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bots_supported')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MSMchat')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
