@@ -15,7 +15,7 @@ class script(object):
 
     SOURCE_TXT = """<b>𝙽𝙾𝚃𝙴:
 - 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙰𝙽 𝙷𝙸𝙶𝙷𝙻𝚈 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Nokkiirunnoippolkittum">𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/MyBotzz/RashmikaBot">𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁:
 - <a href="https://t.me/MSMadminBot">𝑴𝑺𝑴 𝑨𝒅𝒎𝒊𝒏</a></b>"""
 
